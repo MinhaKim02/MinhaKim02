@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+
+
+### Studying...
+
+  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/rstudio-%2375AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=black" /> <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" /> 
+
+  <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/scipy-%238CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=black" />
+
 <!--
 **MinhaKim02/MinhaKim02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
