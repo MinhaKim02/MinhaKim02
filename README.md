@@ -1,28 +1,16 @@
-## Hi there 👋
+<div align="center">
 
+## Hi, I'm Minha
 
+AI Major · Big Data Science Minor  
+Backend · AI · Computer Vision
 
-### Studying...
+</div>
 
-  <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/rstudio-%2375AADB.svg?&style=for-the-badge&logo=rstudio&logoColor=black" /> <img src="https://img.shields.io/badge/tableau-%23E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white" /> 
+---
 
-  <img src="https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/scipy-%238CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=black" />
-
-<!--
-**MinhaKim02/MinhaKim02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mimha0123/mimha0123/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mimha0123/mimha0123/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mimha0123/mimha0123/output/github-contribution-grid-snake.svg">
+</picture>
